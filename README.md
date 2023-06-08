@@ -1,4 +1,4 @@
-# Projeto de BD 2023 - Universidade de Aveiro
+# Projeto de BD
 
 
 
